@@ -1,5 +1,9 @@
 body {
   background: #222222;
+}
+
+p,
+h1 {
   color: #FFFFFF;
 }
 

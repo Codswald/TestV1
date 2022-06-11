@@ -9,5 +9,5 @@ h1 {
 
 .title {
   text-align: center;
-  color: #232421;
+  display: block;
 }

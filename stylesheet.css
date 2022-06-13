@@ -9,6 +9,14 @@ h1 {
   color: #FFFFFF;
 }
 
+div {
+  display: flex;
+}
+
+div > * {
+  flex: 1;
+}
+
 .title {
   text-align: center;
 }
